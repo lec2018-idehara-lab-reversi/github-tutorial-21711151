@@ -1,9 +1,14 @@
 void setup()
 {
   size(100,100);
-  println("Hello World!");}
+  println("konnnitiha sekai");
 
+}
 void draw()
 {
-  background(196,128,128);
+ 
+  
+ 
+  background(23,150,31);
+  
 }
